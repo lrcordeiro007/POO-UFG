@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio1 {
+public class Exercicio1_OO {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); /* cria objeto para leitura */
