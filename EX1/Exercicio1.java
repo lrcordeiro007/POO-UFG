@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Exercicio1 {
 
-    public static <Intervalo> void main(String[] args) {
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); /* cria objeto para leitura */
         int numi = 0, numf = 0;
         System.out.println("Entre o primeiro número:");
