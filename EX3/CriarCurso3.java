@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class CriarCursos3 {
+public class CriarCurso3 {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         int nCursos = 0;

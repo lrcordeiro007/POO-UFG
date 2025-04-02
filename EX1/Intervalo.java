@@ -1,4 +1,5 @@
-public class Intervalo {
+
+public class Intervalo{
 
     int numi;
     int numf;
@@ -67,5 +68,9 @@ public class Intervalo {
         dif= numf - numi;
         return dif;
     }
+
 }
+
+    
+
 
