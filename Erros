@@ -1,0 +1,6 @@
+Para soluçao de alguns erros vou colocar algumas soluçoes que eu vou descobrindo durante as minhas tentativas de fazer os exercicios praticos em sala de aula.
+
+Oque me apareceu no ultimo, foi que a classe principal nao estava sendo copilada de certa forma, deixando a seguinte mensagem no terminal: "java.lang.ClassNotFoundException"
+A soluçao que eu achei foi reiniciar as extençoes do java do vscode e caso isso nao tenha resolvido tambem achei a sooluçao de clicar F1 e escrever 
+Java: clean the Java language server workspace ,
+oque resolveu o problema de todos os exercicios
